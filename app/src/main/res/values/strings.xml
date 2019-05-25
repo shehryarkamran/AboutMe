@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Shehryar Kamran</string>
+    <string name="yello_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Shehryar.
+        \n\nFrom a young age, I’ve always had a sense
+        \nof motivation and passion driving me forward.
+        \n\nWhether it’s exploring unique
+        \nopportunities,learning additional skills, or meeting new people,
+        \n\nI bring these values to every
+        experience throughout my life on a personal and professional level.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
